@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
-  "website": "https://github.com/MR-KANNADIGA/KANNADIGA-BOT/",
-  "success_url": "https://t.me/KANNADIGA_BOTS",
+  "repository": "https://github.com/VIKASIND/KANNADIGA-BOT",
+  "website": "https://github.com/VIKASIND/KANNADIGA-BOT",
+  "success_url": "https://t.me/Vicky_bio",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.(Don't Need To Change It)",
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Pro-Person",
-      "value": "『💛 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 ❤️』",
+      "value": " 「🇻​​​​​🇮​​​​​🇨​​​​​🇰​​​​​🇾​​」『💛 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 ❤️』",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .kannadiga   Command.",
-      "value": "𝗡𝗔𝗔𝗡 𝗢𝗕𝗕𝗔 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔",
+      "value": "𝗡𝗔𝗔𝗡 𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔",
       "required": false
     },
     "ABUSE": {
